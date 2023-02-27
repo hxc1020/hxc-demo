@@ -1,0 +1,13 @@
+{
+  "name": "mock data",
+  "users": [
+    {
+      "name": "Tom",
+      "age": 18
+    },
+    {
+      "name": "Jones",
+      "age": 19
+    }
+  ]
+}
